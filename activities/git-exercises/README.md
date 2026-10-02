@@ -48,7 +48,27 @@ My Git configuration uses my student ID number without the hyphen, as instructed
 activities/git-exercises/
 ├── Bacus_JuniezsaCassandra_01.png
 ├── Bacus_JuniezsaCassandra_02.png
-├──  Bacus_JuniezsaCassandra_03.png
+├── Bacus_JuniezsaCassandra_03.png
+├──Bacus_JuniezsaCassandra_04.png
+├──Bacus_JuniezsaCassandra_05.png
+├──Bacus_JuniezsaCassandra_06.png
+├──Bacus_JuniezsaCassandra_07.png
+├──Bacus_JuniezsaCassandra_08.png
+├──Bacus_JuniezsaCassandra_09.png
+├──Bacus_JuniezsaCassandra_10.png
+├──Bacus_JuniezsaCassandra_11.png
+├──Bacus_JuniezsaCassandra_12.png
+├──Bacus_JuniezsaCassandra_13.png
+├──Bacus_JuniezsaCassandra_14.png
+├──Bacus_JuniezsaCassandra_15.png
+├──Bacus_JuniezsaCassandra_16.png
+├──Bacus_JuniezsaCassandra_17.png
+├──Bacus_JuniezsaCassandra_18.png
+├──Bacus_JuniezsaCassandra_19.png
+├──Bacus_JuniezsaCassandra_20.png
+├──Bacus_JuniezsaCassandra_21.png
+├──Bacus_JuniezsaCassandra_22.png
+├──Bacus_JuniezsaCassandra_23.png
 └──README.md
 ```
 
