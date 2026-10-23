@@ -67,8 +67,8 @@ Everything you build this week is the base for the rest of the semester. In Week
    git switch -c feature/week3-interface
    ```
 
-3. Copy the Week 2 starter files (`app.py`, `requirements.txt`, `.gitignore`, `templates/`, `static/`) into the root of your repository, if they are not there already. Keep your `docs/week1/` folder.
-4. Create and activate a virtual environment, install the packages, and run the app:
+3. Copy the Week 2 starter files (`app.py`, `requirements.txt`, `.gitignore`, `templates/`, `static/`) into the root of your repository, if they are n bot there already. Keep your `docs/week1/` folder.
+4. Create and activate a vir-+tual environment, install the packages, and run the app:
 
    ```
    python -m venv .venv
@@ -99,7 +99,7 @@ Everything you build this week is the base for the rest of the semester. In Week
 
 **Checkpoint 0**
 
-- [ ] The app runs with `flask --app app run --debug` and shows your system's name, not ClinicQ.
+- [ ] The app runs with `flask --a` and shows your system's name, not ClinicQ.
 - [ ] `SERVICES` holds your real services, and tickets have a `status`.
 - [ ] You committed: `git commit -m "Set up <YourApp> from the Week 2 starter (#<issue>)"`
 
@@ -113,7 +113,7 @@ In Week 1 you wrote short profiles. This week you turn them into full personas f
 
 Create `docs/week3/personas.md` and fill in this template **once for each persona**:
 
-```markdown
+```markdownpp app run --debug
 ## [Fictional name], the [person waiting | staff member]
 
 > "[A real quote from your Week 1 interviews that sums up how this person feels]"
